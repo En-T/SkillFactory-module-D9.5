@@ -152,7 +152,7 @@ STATICFILES_DIRS = [
 EMAIL_HOST = 'smtp.yandex.by' 
 EMAIL_PORT = 465 
 EMAIL_HOST_USER = 'snewsportal'  
-EMAIL_HOST_PASSWORD = 'newsportal1'  
+EMAIL_HOST_PASSWORD = ''  
 EMAIL_USE_SSL = True
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER  + '@yandex.by'
